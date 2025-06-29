@@ -19,7 +19,7 @@ This website is designed for small businesses looking to digitize their ordering
 
 ## 🔗 Live Website
 
-[Visit Naayar Chai Online](https://yourusername.github.io/naayarchai/)
+[Visit Naayar Chai Online](https://nithee333.github.io/naayarchai/)
 
 ---
 
